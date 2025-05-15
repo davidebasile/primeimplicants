@@ -1,4 +1,4 @@
-package io.github.nmts;
+package io.github.contractautomata.primeimplicants;
 
 import io.github.contractautomata.catlib.automaton.Automaton;
 import io.github.contractautomata.catlib.automaton.label.CALabel;
